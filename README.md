@@ -1,3 +1,4 @@
 # getting-started
 This is my first Git Repository.
-Author - Rasel 
+<br>
+Author - Rasel Rana Mallick
